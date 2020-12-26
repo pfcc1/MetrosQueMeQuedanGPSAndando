@@ -1,0 +1,2 @@
+rootProject.name='RecorrerMetrosGPSAndando'
+include ':app'
